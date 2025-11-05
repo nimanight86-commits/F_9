@@ -14,13 +14,13 @@ header{
   psotion: fixed;
   top: 0;
   left: 0;
-  width: 100% ;
+  width: 100%;
   z-index: 1000;
 }
 
 .navbar {
   display: flex;
-  justify-content: center;/*menu ditengah*/
+  justify-content: left;/*menu ditengah*/
   align-items: center;
   background -color: #333;
   padding: 10px 20px;
